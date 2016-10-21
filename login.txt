@@ -1,0 +1,5 @@
+MakeNAME=라르andID=rarandPW=dms123andPOWER=3DONE
+MakeNAME=야타andID=ban4andPW=1234andPOWER=1DONE
+MakeNAME=심니andID=심니andPW=qwer1234andPOWER=1DONE
+MakeNAME=미스터반andID=banandPW=banandPOWER=1DONE
+MakeNAME=awesomeandID=awesomeandPW=awesomeandPOWER=1DONE
