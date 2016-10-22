@@ -1,5 +1,5 @@
-MakeNAME=∂Û∏£andID=rarandPW=dms123andPOWER=3DONE
-MakeNAME=æﬂ≈∏andID=ban4andPW=1234andPOWER=1DONE
-MakeNAME=Ω…¥œandID=Ω…¥œandPW=qwer1234andPOWER=1DONE
-MakeNAME=πÃΩ∫≈Õπ›andID=banandPW=banandPOWER=1DONE
-MakeNAME=awesomeandID=awesomeandPW=awesomeandPOWER=1DONE
+MakeNAME=ÎùºÎ•¥andID=rarandPW=dms123andPOWER=3DONE
+MakeNAME=ÏïºÌÉÄandID=ban4andPW=1234andPOWER=1DONE
+MakeNAME=Ïã¨ÎãàandID=Ïã¨ÎãàandPW=qwer1234andPOWER=1DONE
+MakeNAME=ÎØ∏Ïä§ÌÑ∞Î∞òandID=banandPW=banandPOWER=1DONE
+MakeNAME=Ïñ¥ndID=awesomeandPW=awesomeandPOWER=1DONE
