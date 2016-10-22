@@ -1,4 +1,4 @@
-Lastversion=/1.00/done
+Lastversion=/1.01/done
 foldername=/Racro/done
 updatefilename=/update.exe/done
 macrodownfilename=/kakauto´Ù¿î.exe/done
