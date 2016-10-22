@@ -1,5 +1,5 @@
-MakeNAME=ë¼ë¥´andID=rarandPW=dms123andPOWER=3DONE
-MakeNAME=ì•¼íƒ€andID=ban4andPW=1234andPOWER=1DONE
-MakeNAME=ì‹¬ë‹ˆandID=ì‹¬ë‹ˆandPW=qwer1234andPOWER=1DONE
-MakeNAME=ë¯¸ìŠ¤í„°ë°˜andID=banandPW=banandPOWER=1DONE
-MakeNAME=ì–´ndID=awesomeandPW=awesomeandPOWER=1DONE
+MakeNAME=¶ó¸£andID=rarandPW=dms123andPOWER=3DONE
+MakeNAME=¾ßÅ¸andID=ban4andPW=1234andPOWER=1DONE
+MakeNAME=½É´ÏandID=½É´ÏandPW=qwer1234andPOWER=1DONE
+MakeNAME=¹Ì½ºÅÍ¹İandID=banandPW=banandPOWER=1DONE
+MakeNAME=¾î½æandID=awesomeandPW=awesomeandPOWER=1DONE
